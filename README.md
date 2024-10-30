@@ -1,4 +1,4 @@
-# Desafio Client-Server-API Full Cycle
+# Desafio Clean Architecture Full Cycle
 
 Este projeto é parte de um desafio do curso Pós Go Expert Full Cycle, cujo objetivo era desenvolver uma listagem de orders, com suporte a três diferentes abordagens para acessar o serviço: REST, gRPC e GraphQL.
 
